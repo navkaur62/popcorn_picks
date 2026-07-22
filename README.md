@@ -204,12 +204,3 @@ Open `index.html` directly in your browser — no server needed.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ and lots of 🍿</sub>
-</div>
