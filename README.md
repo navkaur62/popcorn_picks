@@ -199,8 +199,8 @@ Open `index.html` directly in your browser — no server needed.
 
 *Aspiring Data Analyst · Python Enthusiast · Exploring Data Through Insights and Visualization 🚀*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/navdeep-kaur-32b2a631b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/navkaur62)
 
 ---
 
